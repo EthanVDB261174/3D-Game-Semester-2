@@ -7,48 +7,43 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Concrete wall
-    second: {fileID: 2100000, guid: 52f7f5d759208e144964d2e98c2fd9c4, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Concrete wall.001
-    second: {fileID: 2100000, guid: 9fdb3c2abead5754a9993dd62b6ad372, type: 2}
+      name: Concrete wall.002
+    second: {fileID: 2100000, guid: 75db73419a1a7ce489ecdd4ae54c2b1a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Wooden planks
-    second: {fileID: 2100000, guid: e5f94a7d9e939ed429acc56e813cc5bc, type: 2}
+    second: {fileID: 2100000, guid: 905e2d9117ddc5f4083cc8410783bd1a, type: 2}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Concrete wall_BaseColor
-    second: {fileID: 2800000, guid: 9a785df9d88e74941aea1346f27fd43a, type: 3}
+    second: {fileID: 2800000, guid: 8c942f87d79adb74e81d22fbce2cb427, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Concrete wall_Normal
-    second: {fileID: 2800000, guid: 3ac8ffddaa561ae48827175d7404d618, type: 3}
+    second: {fileID: 2800000, guid: 7d595e085f251404d832ff02ee2bcbd7, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Concrete wall_Roughness
-    second: {fileID: 2800000, guid: cadb6a6327cc32b45803ea8b42bc2c59, type: 3}
+    second: {fileID: 2800000, guid: 463b435477ad32b46912833d62ddda77, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: wood18_diffuse
-    second: {fileID: 2800000, guid: b4446b4e9cabbe647a8f1048c19e90f0, type: 3}
+    second: {fileID: 2800000, guid: 4eae57d2f5d2bbe48808beb6dc802d7e, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: wood18_normal_opengl
-    second: {fileID: 2800000, guid: b1e10cd5adbc1de4897786bd5dbb39a8, type: 3}
+    second: {fileID: 2800000, guid: 5aa3487dce7be0d4a803dd41fd873578, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: wood18_roughness
-    second: {fileID: 2800000, guid: 560329db7f59a424fa59963b00a69619, type: 3}
+    second: {fileID: 2800000, guid: 6fe47c412fbcd904a96d72050b186803, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
